@@ -49,6 +49,8 @@ own chosen value of `<max-omobility-ids>` via their manifest entry (see
 [manifest-entry.xsd](manifest-entry.xsd)). Clients SHOULD parse this value (or
 assume it's equal to `1`).
 
+[Here][omobility-las-comparison] you can read about Learning Agreement identifier.
+
 
 Security
 --------
@@ -107,3 +109,4 @@ can help you with that.
 [cnr-intro]: https://github.com/erasmus-without-paper/ewp-specs-architecture#cnr
 [bad-cnr-request]: https://github.com/erasmus-without-paper/ewp-specs-architecture#bad-cnr-request
 [sec-v2]: https://github.com/erasmus-without-paper/ewp-specs-sec-intro/tree/stable-v2
+[omobility-las-comparison]: https://github.com/erasmus-without-paper/ewp-specs-api-omobility-las/#outgoing-mobility-learning-agreement-api-vs-outgoing-mobilities-api
