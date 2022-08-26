@@ -7,10 +7,7 @@ document, starting from its first beta draft version.
 
 0.2.0
 
-* Added incoming LAs statistics endpoint to manifest
-* Added incoming LAs statistics response schema
-* Added incoming LAs statistics response example
-* Added incoming LAs statistics README
+* Added incoming LAs endpoint
 
 
 0.1.0
