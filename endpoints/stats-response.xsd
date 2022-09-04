@@ -57,7 +57,7 @@
                                     </xs:documentation>
                                 </xs:annotation>
                             </xs:element>
-                            <xs:element name="la-incoming-any-version-approved" type="xs:integer">
+                            <xs:element name="la-incoming-some-version-approved" type="xs:integer">
                                 <xs:annotation>
                                     <xs:documentation>
                                         Number of incoming LAs with at least one version approved by the receiving HEI.
