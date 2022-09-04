@@ -7,23 +7,22 @@
     "
 >
 
-    <calculation-date>2022-07-01Z</calculation-date>
     <academic-year-la-stats>
         <receiving-academic-year-id>2021/2022</receiving-academic-year-id>
-        <la-total>109</la-total>
-        <la-at-least-one-version-approved>70</la-at-least-one-version-approved>
-        <la-latest-version-approved>67</la-latest-version-approved>
-        <la-latest-version-rejected>0</la-latest-version-rejected>
-        <la-latest-version-awaiting>39</la-latest-version-awaiting>
+        <la-incoming-total>109</la-incoming-total>
+        <la-incoming-any-version-approved>70</la-incoming-any-version-approved>
+        <la-incoming-latest-version-approved>67</la-incoming-latest-version-approved>
+        <la-incoming-latest-version-rejected>0</la-incoming-latest-version-rejected>
+        <la-incoming-latest-version-awaiting>39</la-incoming-latest-version-awaiting>
     </academic-year-la-stats>
 
     <academic-year-la-stats>
         <receiving-academic-year-id>2022/2023</receiving-academic-year-id>
-        <la-total>77</la-total>
-        <la-at-least-one-version-approved>9</la-at-least-one-version-approved>
-        <la-latest-version-approved>9</la-latest-version-approved>
-        <la-latest-version-rejected>1</la-latest-version-rejected>
-        <la-latest-version-awaiting>66</la-latest-version-awaiting>
+        <la-incoming-total>77</la-incoming-total>
+        <la-incoming-any-version-approved>9</la-incoming-any-version-approved>
+        <la-incoming-latest-version-approved>9</la-incoming-latest-version-approved>
+        <la-incoming-latest-version-rejected>1</la-incoming-latest-version-rejected>
+        <la-incoming-latest-version-awaiting>66</la-incoming-latest-version-awaiting>
     </academic-year-la-stats>
 
 </las-incoming-stats-response>
