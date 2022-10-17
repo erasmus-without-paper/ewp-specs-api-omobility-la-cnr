@@ -56,7 +56,7 @@
                         <xs:element name="url" type="ewp:HTTPS" minOccurs="1" maxOccurs="1">
                             <xs:annotation>
                                 <xs:documentation>
-                                    An URL at which the the host will be listening.
+                                    An URL at which the host will be listening.
                                 </xs:documentation>
                             </xs:annotation>
                         </xs:element>
